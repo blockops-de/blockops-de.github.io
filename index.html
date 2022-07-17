@@ -254,29 +254,29 @@
               <p>Blockchain Development GmbH<br/>Am Weichselgarten 7<br/>91058 Erlangen / Germany<br/>HRB 16563 / Fürth</p>
             </div>
             <div class="col-12 col-md-8">
-              <form>
+              <form action="https://formspree.io/xyybdoby" method="POST" id="contactForm">
                 <div class="row">
-                  <div class="col-12 col-md-6">
-                    <input type="text" class="form-control" placeholder="your name">
+                  <div class="col-12 col-md-6 has-validation">
+                    <input type="text" class="form-control" placeholder="your name" name="name" id="name" required data-validation-required-message="Please enter your name.">
                   </div>
                   <div class="col-12 col-md-6">
-                    <input type="email" class="form-control" placeholder="your email">
+                    <input type="email" class="form-control" placeholder="your email" name="_replyto" id="email" required data-validation-required-message="Please enter your email address.">
                   </div>
                 </div>
                 <div class="row">
                   <div class="col">
-                    <input type="text" class="form-control" placeholder="your subject">
+                    <input type="text" class="form-control" placeholder="your subject" name="_subject" id="subject" required data-validation-required-message="Please enter a subject.">
                   </div>
                 </div>
                 <div class="row">
                   <div class="col">
-                    <textarea type="text" rows="4" class="form-control" placeholder="your message"></textarea>
+                    <textarea type="text" rows="4" class="form-control" placeholder="your message" name="c_message" id="message" required data-validation-required-message="Please enter a message."></textarea>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-12 col-md-6">
                     <div class="form-check">
-                      <input type="checkbox" class="form-check-input" id="contactform">
+                      <input type="checkbox" class="form-check-input" name="privacy" id="privacy" required data-validation-required-message="Please agree to the privacy policy.">
                       <label class="form-check-label" for="contactform">I have read the <a href="privacy.html">privacy policy</a> and agree</label>
                     </div>
                   </div>
