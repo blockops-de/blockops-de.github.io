@@ -381,7 +381,7 @@ button:focus,
 form input.form-control,
 form textarea.form-control {
   border-radius: 0 !important;
-  background-color: #eaeaea;
+  background-color: #555;
   border: none;
   font-style: italic;
   margin-bottom: 1em;
@@ -686,7 +686,7 @@ input#menutrigger {display:none}
     background: #1b1b1c;
   }
   form input.form-control, form textarea.form-control {
-    background-color: #1b1b1c;
+    background-color: #555;
     color: #fff;
   }
 }
