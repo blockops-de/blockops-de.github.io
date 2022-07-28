@@ -318,6 +318,24 @@ a.btn {
 .creditpage .content {
   padding: 3rem 0;
 }
+.agb {
+  .content.header-section {
+    margin-top: 115px;
+  }
+  .content {
+    padding: 3rem 0;
+  }
+  .content p {
+    text-align: justify;
+    text-justify: inter-word;
+    width: 100%;
+    line-height: normal;
+  }
+  p  { font-size: 1rem; }
+  h2 { font-size: 3rem; }
+  h3 { font-size: 2rem; }
+}
+
 .section-shape {
   padding: 4em 0;
 }
