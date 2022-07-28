@@ -1,0 +1,25 @@
+title: "Blockops | aligning future technologies"
+email: info@blockops.de
+description:
+baseurl:
+url: https://blockops.de
+github_username:  blockops-de
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+sass:
+  sass_dir: _sass
+  style: compressed
