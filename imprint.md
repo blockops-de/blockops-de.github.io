@@ -7,24 +7,17 @@ permalink: /imprint
 
 According to § 5 TMG
 
-#### Operator, Responsible and Contact
+#### Operator, Responsible (§53 RStV) and Contact 
 
 Blockchain Development GmbH<br/>
 Am Weichselgarten 7<br/>
 91058 Erlangen<br/>
 Auhtorized to represent: The CEO Dr.-Ing. Fabian Schuh
 
-### Legal Record
+##### Legal Record
 
 District Court of Fürth HRB 16563<br/>
 VAT ID: DE314877786
-
-### Responsible for the content of this Page (§53 RStV)
-
-Blockchain Development GmbH<br/>
-Am Weichselgarten 7<br/>
-91058 Erlangen<br/>
-represented by the CEO Dr.-Ing. Fabian Schuh
 
 #### Registered Trademark
 
