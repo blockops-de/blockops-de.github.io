@@ -31,9 +31,6 @@ This website does not collect, store or process Personally Identifiable Informat
 
 This Website is hosted as a GitHub Pages website. GitHub may collect User Personal Information from visitors to this GitHub Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of this Website and the Service. See the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement) for details.
 
-##### Google Fonts
-
-Our website uses Google Fonts to display external fonts. This is a service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043. Google offers detailed information at [AdSettings](https://adssettings.google.com/authenticated) & [Google Policies](https://policies.google.com/privacy).
 
 ##### Formspree
 
