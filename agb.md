@@ -14,7 +14,8 @@ Die nachfolgenden allgemeinen Gesch&ouml;ftsbedingungen (im Folgenden kurz AGB)
 gelten für Verträge zwischen Blockchain Development GmbH, vertreten durch den Geschäftsführer,
 Herrn Dr.-Ing. Fabian Schuh, Am Weichselgarten 7, 91058 Erlangen, Mail info@blockops.de (im Folgenden kurz BlockOps) und ihren Kunden (Verbraucher und Unternehmer).
 
-Entgegenstehende oder von diesen AGB abweichende bzw. ergänzende Bedingungen des Kunden werden nicht anerkannt.
+Abweichende oder ergänzende Individualabreden, insbesondere mit den Mitarbeitern von BlockOps, bedürfen immer der Schriftform. Abweichende Bedingungen des Kunden gelten auch dann nicht, wenn BlockOps ihnen nicht oder
+nicht nochmals ausdrücklich widerspricht.
 
 Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können, § 13 BGB
 
@@ -48,11 +49,16 @@ Spätestens 30 Tage nach Fälligkeit und Zugang einer Rechnung oder gleichwertig
 
 #### Lieferungen
 
+Sofern im Auftrag nichts anderes vereinbart wird, erfolgt die Lieferung von BlockOps frei Haus.
+
 Lieferungs- und Leistungstermine bedürfen, um rechtsverbindlich zu sein, unserer schriftlichen Bestätigung. Lieferfristen verlängern sich angemessen bei Maßnahmen im Rahmen von Arbeitskämpfen, insbesondere Streiks und Aussperrungen sowie beim Eintritt sonstiger unvorhergesehener und von uns nicht zu vertretenen Hindernissen, soweit solche Umstände nachweislich auf die Fertigstellung und/oder Ablieferung des Liefergegenstandes von Einfluss sind. Dies gilt auch, wenn die vorerwähnten Umstände bei unseren Unterlieferanten eintreten. Die vorbezeichneten Umstände sind auch dann von uns nicht zu vertreten, wenn sie während eines bereits vorliegenden Verzuges entstehen. Den sachlichen und/oder zeitlichen Umfang der Lieferung- und Leistungsbeeinträchtigung durch Umstände der vorgenannten Art werden wir in wichtigen Fällen unseren Auftraggebern baldmöglichst mitteilen.
+
+Technische und gestalterische Abweichungen gegenüber Beschreibungen und Angaben in Prospekten, Angeboten und schriftlichen Unterlagen sowie Leistungs-, Konstruktions-, und Entwicklungsänderungen im Zuge technischen Fortschritts bleiben vorbehalten, ohne dass der Kunde daraus Rechte herleiten könnte.
 
 #### Unterlieferanten/Subunternehmer
 
-Wir sind berechtigt, uns zum Zwecke der Erfüllung von Liefer- und/oder Leistungsver- pflichtungen Unterlieferanten und/oder Subunternehmer nach unserem Ermessen und nach unserer Wahl zu bedienen.
+Wir sind berechtigt, uns zum Zwecke der Erfüllung von Liefer- und/oder Leistungsverpflichtungen Unterlieferanten und/oder Subunternehmer nach unserem Ermessen und nach unserer Wahl zu bedienen. BlockOps ist in der Wahl der Subunternehmer oder Lieferanten frei und haftet für deren richtige Auswahl und für deren Handlungen bzw. Unterlassungen.
+
 
 #### Zusätzliche Aufträge, Dienstleistungen und Besorgungen
 
@@ -60,7 +66,7 @@ Zusatzaufträge bedürfen zu ihrer Rechtswirksamkeit unserer schriftlichen Best�
 
 #### Abnahme durch den Kunden
 
-Der Kunde ist zur Abnahme verpflichtet, sobald ihm die Fertigstellung angezeigt worden ist. Wegen unwesent- licher Mängel kann die Abnahme nicht verweigert werden.
+Der Kunde ist zur Abnahme verpflichtet, sobald ihm die Fertigstellung angezeigt worden ist. Wegen unwesentlicher Mängel kann die Abnahme nicht verweigert werden.
 
 Kommt der Kunde mit der Abnahme in Verzug, so gilt die Abnahme nach Ablauf von zwölf Werktagen seit Anzeige der Fertigstellung als erfolgt. Hat der Kunde die Anlage ohne Abnahme in Benutzung genommen, gilt die Abnahme nach Ablauf von sechs Werktagen nach Beginn der Benutzung als erfolgt. Vorbehalte wegen erkennbarer Mängel hat der Kunde in diesen Fällen spätestens bis zu den vorstehend genannten Zeitpunkten geltend zu machen.
 
@@ -82,15 +88,45 @@ Schadensersatzansprüche des Kunden sind ausgeschlossen. Das gilt nicht soweit d
 
 #### Eigentumsvorbehalt
 
-Sämtliche von uns im Wege des Verkaufs an den Auftraggeber oder dessen Beauftragte gelieferten Gegenstände und Software bleibt bis zur vollen Bezahlung des vereinbarten Preises unser Eigentum. Insoweit als uns Schecks und/oder Wechsel übergeben werden, gilt erst mit deren Einlösung die Zahlung als bewirkt.
+BlockOps behält sich das Eigentum an der Ware, der Leistung, der Software oder der Individualsoftware (nachfolgend zusammenfassend nur bezeichnet als „Ware“) bis zu der vollständigen Bezahlung vor. Dies gilt auch, wenn einzelne oder alle Forderungen in ein Kontokorrent aufgenommen wurden und der Saldo als anerkannt gilt. Werden ausnahmsweise im sog. Scheck-/Wechsel-Verfahren wechsel- oder scheckmäßige Haftungen von Seiten BlockOps begründet, so erlischt der EV vor Einlösung der vom Kunden akzeptierten Wechsel nicht.
+
+Der Kunde darf die Ware nur im regelmäßigen Geschäftsverkehr und nur bar oder unter EV weiterveräußern. Von Sicherungsübereignungen gesamter Warenlager ist die Ware von BlockOps auszuschließen. Bei Zwangsvollstreckung ist BlockOps sofort schriftlich zu benachrichtigen. Werden Waren von BlockOps mit anderen beweglichen Sachen zu einer einheitlichen Sache verbunden oder untrennbar vermischt oder vermengt und sind die anderen Sachen als Hauptsache anzusehen, so ist vereinbart, dass der Kunde BlockOps anteilig Miteigentum überträgt, soweit er an der einheitlichen Sache Eigentum hat oder erwirbt.
+
+Be- und Verarbeitung der Ware durch den Kunden erfolgt unter Ausschluß des Eigentumserwerbs nach § 950 BGB im Auftrag von BlockOps jedoch ohne Verpflichtung für BlockOps hieraus. BlockOps bleibt Eigentümer der so entstehenden Sachen, die als EV-Ware zur Sicherung ihrer Ansprüche dient. Bei Be- oder Verarbeitung zusammen mit fremder Ware hat BlockOps Miteigentum an der neuen Sache im Verhältnis des Wertes ihrer Ware zur fremden verarbeiteten Ware im Zeitpunkt der Verarbeitung (verlängerter Eigentumsvorbehalt).
+
+Soweit Ware von BlockOps vor Vollzahlung weiterveräußert wird, egal ob zusammen mit Sachen Dritter oder im bearbeiteten Zustand, muss der Kunde den EV der BlockOps weiterleiten. Außerdem tritt er hiermit in Höhe der BlockOps Forderungen alle ihm gegen seine Abnehmer aus der Weiterveräußerung jetzt oder künftig zustehenden Forderungen mit Nebenrechten an BlockOps ab. Bei Verbindung oder Vermischung von BlockOps eigener mit fremder Ware gilt die Forderungsabtretung nur im Verhältnis des Wertes der mitverkauften fremden Ware. Der Kunde bleibt zur Forderungseinziehung im eigenen Namen berechtigt. Der Kunde muss den Erlös aus der Weiterveräußerung der BlockOps Ware jeweils sofort an BlockOps abführen, soweit BlockOps Forderungen fällig sind bzw. werden. Bei Zahlungseinstellung, Konkurs-/Vergleichsantrag des Kunden oder Nichterfüllung seiner Verpflichtungen erlöschen die Ermächtigungen zur Weiterveräußerung der EV-Ware und zur Einziehung der Kundenforderungen automatisch und gehen auf BlockOps über.
+
+Zur Durchsetzung der Rechte von BlockOps aus dem verlängerten EV gegen die Abnehmer des Kunden überläßt dieser BlockOps auf Verlangen die notwendigen Unterlagen und Auskünfte, bes. aus seinen Geschäftsbüchern. Leistet der Kunde bei vertragswidrigem Verhalten, besonders bei Zahlungsverzug, nach Mahnung nicht sofort Barzahlung, hat er die BlockOps Ware einredelos herauszugeben. BlockOps darf ihre EV-Ware wegnehmen und hierzu auch die Lager- und Geschäftsräume des Kunden betreten. Rücknahmekosten trägt der Kunde. BlockOps kann zurückgenommene Ware freihändig bestmöglich ver-werten. Übersteigt der Wert für BlockOps bestehender Sicherheiten ihre Forderungen um mehr als 20% oder sind BlockOps Forderungen in Höhe von mehr als 125% BlockOps eigener Forderungen abzutreten, so ist BlockOps auf Verlangen zur Freigabe von Sicherheiten nach ihrer Wahl verpflichtet.
+
+#### Urheberrecht
+
+Alle durch den Kunden bei BlockOps bezogenen Programme die urheberrechtlich geschützt sind, können vom Kunden nur nach Unterzeichnung eines Software-Lizenzvertrages bezogen und genutzt werden. Die Vergabe von Unterlizenzen bedarf der schriftlichen Einwilligung von BlockOps. Alle von BlockOps dem Kunden für die Programme zur Verfügung gestellten Datenträger sowie alle vom Kunden eventuell (vorbehaltlich BlockOps' schriftlicher Einwilligung) angefertigten Kopien von Programmen und Dokumentationen bleiben Eigentum von BlockOps. Der Kunde muss Kopien von BlockOps' Programmen und Dokumentationen mit Copyright-Vermerk versehen und hat den geheimen Charakter der BlockOps Programme Dritten gegenüber durch alle notwendigen Vorkehrungen sicherzustellen.
+
+#### Datenschutz, Geheimhaltung
+
+Die der anderen Vertragspartei übergebenen Unterlagen, mitgeteilten Kenntnisse und Erfahrungen dürfen ausschließlich im Rahmen des jeweiligen Zweckes des Vertrages über die konkrete zu erbringende Leistung verwendet werden. Sie dürfen Dritten nicht zugänglich gemacht werden, sofern sie nicht ihren Bestimmungen nach Dritten zugänglich gemacht werden sollen, oder Dritten bereits bekannt sind. Dritte sind nicht die zur Durchführung des konkreten Vertragsverhältnisses hinzugezogenen verbundene Unternehmen, Hilfspersonen, wie Freie Mitarbeiter, Subunternehmer etc. für welche aber die Vertragspartei haftet
+
+Darüber hinaus vereinbaren die Vertragsparteien, Vertraulichkeit über alle Vertragsinhalte und über die bei Vertragsabwicklung gewonnenen Erkenntnisse zu wahren.
+
+Die Geheimhaltungsverpflichtung gilt zeitlich auch nach der Beendigung des Vertragsverhältnisses weiter.
+
+Sofern eine Vertragspartei dies verlangt, sind die von ihr übergebenen Unterlagen und Daten nach Beendigung des Vertragsverhältnisses an sie herauszugeben, oder zu vernichten, soweit die Vertragspartei kein berechtigtes Interesse an diesen Unterlagen geltend machen kann.
+
+Beide Vertragsparteien sorgen im Rahmen ihrer Organisationshoheit für die Sicherstellung ausreichenden Datenschutzes, insbesondere Einhaltung der geltenden Vorschriften in der jeweils aktuell gültigen Fassung.
+
+Auf Wunsch werden separate Datenschutzerklärungen, Geheimhaltungserklärungen oder Verschwiegenheitserklärungen verfasst. Eine pauschalierte Schadensersatzregelung oder die Eingehung von pauschalen Ver­tragsstrafen schließt BlockOps ausdrücklich aus. BlockOps haftet im Rahmen der allgemeinen Haftungsregelungen aus diesen Geschäftsbedingungen und nach den gesetzlichen Regelungen, soweit diese nicht wirksam abbedungen wurden.
+
+#### Nennung von Kundennamen
+
+BlockOps kann in branchenüblicher Weise auf der Homepage oder in Werbebroschüren den Namen des Kunden nennen. Die Nennung beschränkt sich auf den Firmennamen und gegebenenfalls den Firmensitz. Inhalte der Geschäftsbeziehung werden nicht genannt. Jedoch kann die Nennung des Kunden einzelnen Geschäftsfeldern von BlockOps zugeordnet sein. Dem kann der Kunde jederzeit ausdrücklich für die Zukunft widersprechen. Eine Referenzkundenvereinbarung bedarf ausdrücklich separater Regelung.
 
 #### Salvatorische Klausel
 
 Sollten von uns erklärte Angebote, Auftragsbestätigungen und/oder sonstige zwischen unseren Auftraggebern und uns – wie auch immer – zustande gekommene Verträge sowie diese Allgemeinen Geschäftsbedingungen teilweise rechtsunwirksam sein oder werden, so wird hiervon die Rechtswirksamkeit der übrigen Erklärung und Bestimmungen nicht berührt.
 
-#### Gerichtsstand und Erfüllungsort
+#### Erfüllungsort, Gerichtsstand, anzuwendendes Recht
 
-Gerichtsstand und Erfüllungsort für beide Parteien ist, soweit gesetzlich zulässig, F&uuml;rth (Bayern); Es ist ausschließlich das jeweils in der Bundesrepublik Deutschland gültige Recht maßgebend.
+Erfüllungsort ist Tennenlohe (Bayern). Gem. § 38 ff ZPO ist Gerichtsstand Nürnberg. Es gilt ausschließlich das Recht der Bundesrepublik Deutschland unter Ausschluss des Internationalen Privatrechts und des UN-Kaufrechts (Art. 6 CISG).
 
 ### Kontakt
 
