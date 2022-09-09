@@ -401,6 +401,19 @@ button:focus,
 .col-number > p {
   padding-left: 3em;
 }
+/* /////////////////////////// */
+/* ///// OUR BEST SECTION //// */
+/* /////////////////////////// */
+.list-number {
+  position: relative;
+}
+.list-number:before {
+  content: '>_';
+  font-family: monospace;
+  font-size: 1.4em;
+  color: #ed6e32;
+  font-weight: 800;
+}
 /* /////////////// */
 /* ///// FORM //// */
 /* /////////////// */
